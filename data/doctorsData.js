@@ -1,0 +1,35 @@
+export const DOCTORS = [
+  {
+    id: '1',
+    name: 'Dra. Cibele Arabise',
+    specialty: 'Ortodontia & Estética Orofacial',
+    rating: 4.9,
+    reviews: 128,
+    location: 'São Paulo, SP',
+    image: 'https://i.postimg.cc/mDsk9h2C/dentist-hero.png', // Substitua pela sua imagem hospedada se desejar
+    about: 'Especialista em alinhadores invisíveis, harmonização orofacial e tratamento preventivo de glicação na estética gengival.',
+    price: 'R$ 280,00',
+  },
+  {
+    id: '2',
+    name: 'Dr. Lucas Hayes',
+    specialty: 'Implantodontia & Prótese',
+    rating: 4.8,
+    reviews: 94,
+    location: 'Rio de Janeiro, RJ',
+    image: 'https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=500',
+    about: 'Mestre em prótese dentária e reabilitação oral estética de alta complexidade.',
+    price: 'R$ 320,00',
+  },
+  {
+    id: '3',
+    name: 'Dra. Helena Wells',
+    specialty: 'Dermatologia & Saúde Cutânea',
+    rating: 4.9,
+    reviews: 156,
+    location: 'Brasília, DF',
+    image: 'https://images.unsplash.com/photo-1594824813566-88855ce78341?w=500',
+    about: 'Focada em saúde da pele, avaliação de glicação cutânea e protocolos anti-envelhecimento integrados à odontologia.',
+    price: 'R$ 350,00',
+  },
+];
