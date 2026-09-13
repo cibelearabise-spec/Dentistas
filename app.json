@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Glow Odonto & Skin",
+    "slug": "glow-odonto-skin",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0B0719"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.cibele.glowodontoskin",
+      "adaptiveIcon": {
+        "backgroundColor": "#0B0719"
+      }
+    }
+  }
+}
